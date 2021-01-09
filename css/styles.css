@@ -41,6 +41,20 @@ Colors:
 - Body text - gray #787976
 - Body text - light gray #dfe5ec
 ******************************************/
+/*****************/
+/*  Customize    */
+/*****************/
+
+img.project {
+	padding: 2px;
+	border-radius: 20%;
+}
+
+img.member {
+	width: 150px; 
+	height:150px; 
+	border-radius: 50%
+}
 
 
 /******************************/
