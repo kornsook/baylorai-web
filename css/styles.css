@@ -46,6 +46,8 @@ Colors:
 /*****************/
 
 img.project {
+	width:700;
+	height:700;
 	padding: 2px;
 	border-radius: 20%;
 }
