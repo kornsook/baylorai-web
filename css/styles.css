@@ -58,6 +58,10 @@ img.member {
 	border-radius: 50%
 }
 
+img.partner{
+	height: 200px;
+	width: auto;
+}
 
 /******************************/
 /*     01. General Styles     */
