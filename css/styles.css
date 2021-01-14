@@ -63,6 +63,20 @@ img.partner{
 	width: auto;
 }
 
+span.textproject{
+	position: absolute;
+	z-index: 3;
+	top: 42%;
+	right: 0;
+	left: 0;
+	color: #fff;
+	font: 700 1.125rem/1.625rem "Montserrat", sans-serif;
+}
+
+.filter .element-item:hover span.textproject{
+	color:white;
+}
+
 /******************************/
 /*     01. General Styles     */
 /******************************/
