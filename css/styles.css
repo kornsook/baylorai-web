@@ -46,8 +46,8 @@ Colors:
 /*****************/
 
 img.project {
-	width: 17.3125rem; /* to eliminate grid overflow problem on hard refresh */
-	height: 16.875rem;
+	width:100%;
+	height:100%;
 	padding: 2px;
 	border-radius: 20%;
 }
