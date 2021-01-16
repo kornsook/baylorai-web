@@ -59,7 +59,6 @@ img.member {
 }
 
 img.partner{
-	height: 200px;
 	width: auto;
 }
 
@@ -69,7 +68,7 @@ span.textproject{
 	top: 42%;
 	right: 0;
 	left: 0;
-	color: #fff;
+	color: white;
 	font: 700 1.125rem/1.625rem "Montserrat", sans-serif;
 }
 
