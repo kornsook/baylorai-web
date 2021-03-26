@@ -45,6 +45,10 @@ Colors:
 /*  Customize    */
 /*****************/
 
+img.area {
+	width: 100%;
+	height: 200px;
+}
 img.project {
 	width:100%;
 	height:100%;
