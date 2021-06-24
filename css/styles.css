@@ -51,7 +51,6 @@ l
 img.project {
 	width:100%;
 	height:100%;
-	padding: 2px;
 	border-radius: 20%;
 }
 
@@ -1426,7 +1425,7 @@ input[type='checkbox'] {
 	top: 0;
 	left: 0;
 	width: 100%;
-	height: 100%;
+	height: 100%;	
 	background-color: rgba(0, 0, 0, 0.4);
 	opacity: 1;
 	text-align: center;
@@ -2014,11 +2013,13 @@ a:hover.back-to-top {
 	}
 	
 	.filter .element-item .element-item-overlay { 
-		opacity: 0;
+		opacity: 0.8;
+		border-radius: 20%;
 		transition: opacity 0.3s ease;
 	}
 
 	.filter .element-item:hover .element-item-overlay {
+		border-radius: 0%;
 		opacity: 1;
 	}
 	/* end of projects */
@@ -2397,6 +2398,7 @@ a:hover.back-to-top {
 	.filter .element-item {
 		width: 17.3125rem; /* to eliminate grid overflow problem on hard refresh */
 		height: 16.875rem;
+		padding:2px;
 	}
 
 	.filter .element-item .element-item-overlay span { 
